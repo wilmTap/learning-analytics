@@ -17,7 +17,7 @@ The process for submitting data is as follows:
 
 1. Select and understand the appropriate xAPI client Library [https://tincanapi.com/libraries/](Client Libraries)
 2. Determine with Recipies your application will use.
-3. [Contact Jisc] via email (https://www.jisc.ac.uk/contact) to obtain access to a developer learning locker.  Provide an outline of you application and the recipies that you'll be using.
+3. [Contact Jisc via email] (https://www.jisc.ac.uk/contact) to obtain access to a developer learning locker.  Provide an outline of you application and the recipies that you'll be using.
 4. Submit your data using the xAPI client libraries.
 5. Ask Jisc to approve your sample data.
 6. Universities can then request Jisc provide you with access to their test or production Locker.
