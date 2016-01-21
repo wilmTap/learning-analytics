@@ -14,11 +14,10 @@ The framework defines a set of xAPI recipes for common activity data, and data s
 [VLE](https://github.com/jiscdev/xapi-vle)
 
 
-
 ### Student Data
 
 Student data is stored against a standard data model. On universities and colleges can submit data to the LRW. Data is stored against a standard model, and authorised applications can access data via RESTful APIs.
 
 The Universal Data Definition model is documented in Github.
 
-(Universal Data Definition) [https://github.com/jiscdev/analytics-udd]
+[Universal Data Definition] (https://github.com/jiscdev/analytics-udd)
