@@ -22,5 +22,17 @@ The process for submitting data is as follows:
 5. Ask Jisc to approve your sample data.
 6. Universities can then request Jisc provide you with access to their test or production Locker.
 
+## Retrieving Data
+
+xAPI defines how data can be retrieved, but for most applications the current xAPI interfaces will be too slow, or not offer enough control.  There we recommend that LearningLocker's aggregation API (based on Mongdb) is used.  
+
+The process is therefore as follows:
+
+1. Review and understand the Lockering Locker Aggrgation API (http://docs.learninglocker.net/statements_api/)
+2. Determine with Recipies your application will use.
+3. [Contact Jisc via email] (https://www.jisc.ac.uk/contact) to obtain access to a the 'University of Jisc' sample learning locker.  Provide an outline of you application and the recipies that you'll be using.
+4. Develop your application
+5. Universities can then request Jisc provide you with access to their test or production Locker.
+
 
 
