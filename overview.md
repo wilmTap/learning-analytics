@@ -1,6 +1,13 @@
 #Overview of the Framework
 
-The core of the framework is the Learning Records Warehouse (LRW).  This hold data about student learning activity, as well as data about the student. Universites and colleges can provide access to developers and applications to submit data to the LRW, and to retrieve it.
+The core of the framework is the Learning Records Warehouse (LRW).  
+This hold data:
+* about student learning activity (in xAPI format)
+* about the student. (in Jisc UDD format)
+
+Universites and colleges can provide access to developers and applications to submit data to the LRW, and to retrieve it.
+
+This data can be used for predicative analytics, to provide dashboards for staff and students, and to build any other learning application that can make use of this data set, as long is it complies with [https://www.jisc.ac.uk/guides/code-of-practice-for-learning-analytics] (Jisc's Learning Analytics code of practice)
 
 ### Activity Data
 Activity data is stored in xAPI (or Tincan Format).  For information on Tincan see [http://tincanapi.com/](http://tincanapi.com/).
