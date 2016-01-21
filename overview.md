@@ -7,11 +7,11 @@ Activity data is stored in xAPI (or Tincan Format).  For information on Tincan s
 
 Activity data is provided by application that students use. Currently this includes plugins for Moodle and Blackboard, with other plugins under development.
 
-[Moodle xAPI plugin] (https://github.com/jlowe64/moodle-logstore_xapi)
+* [Moodle xAPI plugin] (https://github.com/jlowe64/moodle-logstore_xapi)
 
 The framework defines a set of xAPI recipes for common activity data, and data submitted should conform to these recipies. Currently the following recipies are available.
 
-[VLE](https://github.com/jiscdev/xapi-vle)
+* [VLE](https://github.com/jiscdev/xapi-vle)
 
 
 ### Student Data
@@ -20,4 +20,4 @@ Student data is stored against a standard data model. On universities and colleg
 
 The Universal Data Definition model is documented in Github.
 
-[Universal Data Definition] (https://github.com/jiscdev/analytics-udd)
+`* [Universal Data Definition] (https://github.com/jiscdev/analytics-udd)
