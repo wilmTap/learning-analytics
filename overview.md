@@ -13,6 +13,8 @@ The framework defines a set of xAPI recipes for common activity data, and data s
 
 * [VLE](https://github.com/jiscdev/xapi-vle) (external link)
 
+More information about about activity data is available on [activity-data.md](activity-data.md)
+
 
 ### Student Data
 
