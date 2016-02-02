@@ -5,7 +5,7 @@ This holds data:
 * about student learning activity (in xAPI format)
 * about the student. (in Jisc UDD format)
 
-Universites and colleges can provide access to developers and applications to submit data to the LRW, and to retrieve it.
+Universities and colleges can provide access to developers and applications to submit data to the LRW, and to retrieve it.
 
 This data can be used for predicative analytics, to provide dashboards for staff and students, and to build any other learning application that can make use of this data set, as long is it complies with [https://www.jisc.ac.uk/guides/code-of-practice-for-learning-analytics] (Jisc's Learning Analytics code of practice)
 
@@ -13,14 +13,14 @@ This data can be used for predicative analytics, to provide dashboards for staff
 
 ### Example flow for a student facing application
 
-1) The student authenicates via the [http://www.ukfederation.org.uk/] (UK Access Federation)
+1) The student authenticates via the [http://www.ukfederation.org.uk/] (UK Access Federation)
 2) The application then gets an identifier.  It use this to match to more information about the student using the Student Universal Data Definition APIs, such as student name and what courses they are taken.
 3) The application can then access the Actvity data from LRW, calling the appropriate API (documented below) to get student activity on that course.
-4) The application can then process the data into the approporate format and present to the student.
+4) The application can then process the data into the appropriate format and present to the student.
 
 ### Example flow for a predictive model applications
 
-1) Historic Activty Data is extracted from the LRW.
+1) Historic Activity Data is extracted from the LRW.
 2) History Data about the student is extracted from the LRW
 3) This data is use to created predictive models
 4) Additiona Activity and Course performance data is pulled from the LRW at a regular interval.
@@ -50,3 +50,4 @@ Student data is stored against a standard data model. On universities and colleg
 The Universal Data Definition model is documented in Github.
 
 `* [Universal Data Definition] (https://github.com/jiscdev/analytics-udd) (external link)
+    
